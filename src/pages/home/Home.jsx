@@ -286,8 +286,8 @@ It’s Not Just About Bringing You Good Food From Restaurants, We Deliver You Ex
         <img src="/imgs/Box4_img.png" alt="" />
     </div>
     <div className="box4">
-    <img src="/imgs/Box4_img1.png" alt="" />
-    <img src="/imgs/Box4_img2.png" alt="" />
+    <img src="/public/imgs/box4_img1.png" alt="" />
+    <img src="/public/imgs/box4_img2.png" alt="" />
         
     </div>
 
